@@ -12,6 +12,7 @@ Some highlights from my journey so far:
 🔹 Reduced pipeline manual intervention by 40% and query latency by 35% through orchestration automation and semantic model tuning
  
 I hold 5 active certifications — 
+
 🏅 DP-203 Azure Data Engineer
 
 🏅 DP-600 Fabric Analytics Engineer
