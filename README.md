@@ -1,16 +1,18 @@
-## Hi there 👋
+I'm a Senior Data Engineer with 7+ years of experience building cloud-native data platforms that actually move the needle for businesses — not just pipelines that run, but systems that teams trust and rely on daily.
+ 
+My core stack is Azure Fabric, Databricks, Snowflake, and PySpark.  I've worked across the full data engineering lifecycle — distributed ETL/ELT pipelines, Medallion Lakehouse architecture, real-time streaming, dimensional modeling, and governed data platform design — for global enterprises including Microsoft, NatWest Group, HSBC, and HDFC Bank.
+ 
+What drives me is the engineering behind the data — owning systems end to end, from architecture and ingestion through orchestration, monitoring, and on-call reliability. 
 
-<!--
-**adudhe/adudhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some highlights from my journey so far: 
+🔹 Migrated 4 enterprise reports onto a unified Microsoft Fabric Medallion Lakehouse serving INTL, MEA, SGP, and NA business units 
+🔹 Architected production Snowflake pipelines for NatWest's fraud detection, AML monitoring, and sanctions screening across 5+ compliance domains 
+🔹 Built HR data platform adopted by 5,000+ Microsoft employees for workforce planning and asset tracking 
+🔹 Processed terabytes of daily financial data for HSBC and HDFC using Spark & Databricks — 3x improvement in data availability 
+🔹 Reduced pipeline manual intervention by 40% and query latency by 35% through orchestration automation and semantic model tuning
+ 
+I hold 5 active certifications — DP-203, DP-600, DP-700, Databricks Data Engineer Associate, and Databricks Data Engineer Professional — and I'm always pushing to stay ahead of where the data engineering space is heading (hello, Microsoft Fabric 👋).
 
-Here are some ideas to get you started:
+Let's connect if you're building something interesting in the data space!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linkedln: linkedin.com/in/aishwarya-dudhe
