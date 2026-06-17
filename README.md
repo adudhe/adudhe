@@ -13,9 +13,13 @@ Some highlights from my journey so far:
  
 I hold 5 active certifications — 
 🏅 DP-203 Azure Data Engineer
+
 🏅 DP-600 Fabric Analytics Engineer
+
 🏅 DP-700 Fabric Data Engineer
+
 🏅 Databricks Data Engineer Associate
+
 🏅 Databricks Data Engineer Professional
 
 — and I'm always pushing to stay ahead of where the data engineering space is heading (hello, Microsoft Fabric 👋).
