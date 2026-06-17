@@ -1,4 +1,4 @@
-I'm a Senior Data Engineer with 7+ years of experience building cloud-native data platforms that actually move the needle for businesses — not just pipelines that run, but systems that teams trust and rely on daily.
+I'm a Senior Data Platform Engineer with 7+ years of experience building cloud-native data platforms that actually move the needle for businesses — not just pipelines that run, but systems that teams trust and rely on daily.
  
 My core stack is Azure Fabric, Databricks, Snowflake, and PySpark.  I've worked across the full data engineering lifecycle — distributed ETL/ELT pipelines, Medallion Lakehouse architecture, real-time streaming, dimensional modeling, and governed data platform design — for global enterprises including Microsoft, NatWest Group, HSBC, and HDFC Bank.
  
@@ -11,7 +11,14 @@ Some highlights from my journey so far:
 🔹 Processed terabytes of daily financial data for HSBC and HDFC using Spark & Databricks — 3x improvement in data availability 
 🔹 Reduced pipeline manual intervention by 40% and query latency by 35% through orchestration automation and semantic model tuning
  
-I hold 5 active certifications — DP-203, DP-600, DP-700, Databricks Data Engineer Associate, and Databricks Data Engineer Professional — and I'm always pushing to stay ahead of where the data engineering space is heading (hello, Microsoft Fabric 👋).
+I hold 5 active certifications — 
+🏅 DP-203 Azure Data Engineer
+🏅 DP-600 Fabric Analytics Engineer
+🏅 DP-700 Fabric Data Engineer
+🏅 Databricks Data Engineer Associate
+🏅 Databricks Data Engineer Professional
+
+— and I'm always pushing to stay ahead of where the data engineering space is heading (hello, Microsoft Fabric 👋).
 
 Let's connect if you're building something interesting in the data space!
 
